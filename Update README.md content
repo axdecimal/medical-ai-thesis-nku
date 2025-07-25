@@ -28,3 +28,14 @@ The project is supported by reputable sources and academic research published in
 - **ScienceDirect**
 
 These sources provided scientific background and insights into the current medical applications of AI.
+
+## Structure
+
+The repository is organized as follows:
+
+- `/data/` : Contains anonymized sample medical images used for AI training/testing
+- `/notebooks/` : Jupyter notebooks for data preprocessing, modeling and evaluation
+- `/models/` : Pre-trained models and configuration files
+- `/scripts/` : Python scripts for automation and image processing
+- `README.md` : Project overview and documentation
+
